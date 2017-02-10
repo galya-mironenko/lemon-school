@@ -1,36 +1,23 @@
-article{
-	text-align: center;
-}
-h1{
-	color:#f00;
-}
-img{
-	width: 300px;
-	border: 4px double #f0f;
-}
-figcaption{
-	font-size: 1.2em;
-}
-ol{
+
+ol {
 	color:#008000;
 	text-align:left;
 	font-size: 1.2em;
 }
-span{
+span {
 	text-decoration: underline;
-    color:#000080;
+   	color:#000080;
 }
-a{
-	color: #008000;
-}
-a:hover {
-      text-decoration: none;
-  }
 
-footer{
-		border-bottom: dashed;
+a:hover {
+    text-decoration: none;
 }
-.dog{
+
+figcaption{
+	font-size: 1.2em;
+}
+
+.dog {
 	text-align: left;
 	border-left:4px dashed  #800080;
 }
