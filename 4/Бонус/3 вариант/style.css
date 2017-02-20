@@ -13,7 +13,7 @@
 }
 .header {
 	height: 80px;
-	background: rgb(115,99,86); 
+	background-color: rgb(115,99,86); 
     color: #FFFFFF;
     padding-left: 30px;
     padding-top: 35px;
@@ -43,7 +43,7 @@
 	width: 200px;
 	position: relative; 
 	left: -200px;
-	background: rgb(125,218,138); 
+	background-color: rgb(125,218,138); 
 	color: white;
 	padding-left: 30px;
 	padding-top: 35px;   
@@ -53,14 +53,14 @@
 	margin-right: -200px;
 	width: 200px;
 	position: relative;
-	background: rgb(217,125,126);
+	background-color: rgb(217,125,126);
     color: white;
     padding-left: 30px;
     padding-top: 35px;
 }
 .footer {
 	height: 80px;
-	background: rgb(115,99,86); 
+	background-color: rgb(115,99,86); 
     color: #FFFFFF;
     padding-left: 30px;
     padding-top: 35px;

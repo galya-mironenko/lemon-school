@@ -19,13 +19,13 @@
   display: block;
 }
 .header {
-  background: rgb(115,99,86);
+  background-color: rgb(115,99,86);
   color: #FFF;
   padding: 50px 30px 30px;
   font:  35px sans-serif;
 }
 .footer {
-  background: rgb(115,99,86);
+  background-color: rgb(115,99,86);
   color: #FFF;
   padding: 30px 0px 50px 30px;
   font:  35px sans-serif;
@@ -42,7 +42,7 @@ p{
   padding-left: 30px;
   }
 .aside-1 {
-  background: rgb(125,218,138);
+  background-color: rgb(125,218,138);
   color: #FFF;
   width:5%;
   padding: 20px 30px;
@@ -51,7 +51,7 @@ p{
   order: 1;
 }
 .aside-2 {
-  background: rgb(217,125,126);
+  background-color: rgb(217,125,126);
   color: #FFF;
   width:5%;
   padding: 20px 30px;
