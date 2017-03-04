@@ -79,10 +79,7 @@ header{
 }
 .about_text{
 	font-size: 22px;
-	padding-top: 20px;
-	padding-left: 34px;
-	padding-right: 34px;
-	padding-bottom: 69px;
+	padding: 20px 34px 69px 34px;
 	line-height: 34px;
 }
 .block{
@@ -99,35 +96,25 @@ header{
 .img-iconki{
 	margin: 40px 35px;
 }
-.ikon {
+.icon,
+.icon2,
+.icon3{
 	width: 160px;
 	height: 160px;
 	background-color: #ffffff;
 	box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
 	border-radius: 7px;
 	display: inline-block;
-	margin-left: -6px;
 	text-align: center;
+}
+.icon {
+	margin-left: -6px;
 }
 .icon2 {
-	width: 160px;
-	height: 160px;
-	background-color: #ffffff;
-	box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
-	border-radius: 7px;
-	display: inline-block;
 	margin-left: 170px;
-	text-align: center;
 }
 .icon3 {
-	width: 160px;
-	height: 160px;
-	background-color: #ffffff;
-	box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
-	border-radius: 7px;
-	display: inline-block;
 	margin-left: 170px;
-	text-align: center;
 }
 .about_discription1,
 .about_discription2,
@@ -276,6 +263,7 @@ footer{
 	background-color: #69d2e7;
 	padding: 28px 0px;
 	color: #ffffff;
+	content: '';
 	clear: both;
 }
 .footer-bar{
