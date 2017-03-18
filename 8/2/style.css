@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font: bold 40px Arial;
+}
+body{
+	width: 100%;
+    height: 100%;
+}
+.item{
+	width: 295px;
+	height: 82px;
+	background-color: #8bb5f4;
+	margin-top: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	color: #fff;
+	text-align: center;
+	padding-top: 19px;
+	padding-bottom: 23px;
+	line-height: 40px;
+	font-family: Arial;
+	overflow: hidden;
+	display: block;
+	text-indent: 4px;
+	letter-spacing: 1.1px;
+	text-shadow: rgb(18, 128, 106) 1px 1px,
+    rgb(51, 125, 237) 2px 2px,
+    rgb(51, 125, 237) 3px 3px,
+    rgb(51, 125, 237) 4px 4px,
+    rgb(51, 125, 237) 5px 5px,
+    rgb(51, 125, 237) 6px 6px,
+    rgb(51, 125, 237) 7px 7px,
+    rgb(51, 125, 237) 8px 8px,
+    rgb(51, 125, 237) 9px 9px,
+    rgb(51, 125, 237) 10px 10px,
+    rgb(51, 125, 237) 11px 11px,
+    rgb(51, 125, 237) 12px 12px,
+    rgb(51, 125, 237) 13px 13px,
+    rgb(51, 125, 237) 14px 14px,
+   	rgb(51, 125, 237) 15px 15px,
+    rgb(51, 125, 237) 16px 16px,
+    rgb(51, 125, 237) 17px 17px,
+    rgb(51, 125, 237) 18px 18px,
+    rgb(51, 125, 237) 19px 19px,
+    rgb(51, 125, 237) 20px 20px,
+    rgb(51, 125, 237) 21px 21px,
+    rgb(51, 125, 237) 22px 22px,
+    rgb(51, 125, 237) 23px 23px,
+    rgb(51, 125, 237) 24px 24px,
+    rgb(51, 125, 237) 25px 25px,
+    rgb(51, 125, 237) 26px 26px,
+    rgb(51, 125, 237) 27px 27px,
+    rgb(51, 125, 237) 28px 28px,
+    rgb(51, 125, 237) 29px 29px,
+    rgb(51, 125, 237) 30px 30px,
+    rgb(51, 125, 237) 31px 31px,
+    rgb(51, 125, 237) 32px 32px,
+    rgb(51, 125, 237) 33px 33px,
+    rgb(51, 125, 237) 34px 34px,
+    rgb(51, 125, 237) 35px 35px,
+    rgb(51, 125, 237) 36px 36px,
+    rgb(51, 125, 237) 37px 37px,
+    rgb(51, 125, 237) 38px 38px,
+    rgb(51, 125, 237) 39px 39px,
+    rgb(51, 125, 237) 40px 40px,
+    rgb(51, 125, 237) 41px 41px,
+    rgb(51, 125, 237) 42px 42px,
+    rgb(51, 125, 237) 43px 43px,
+    rgb(51, 125, 237) 44px 44px,
+    rgb(51, 125, 237) 45px 45px,
+    rgb(51, 125, 237) 46px 46px,
+    rgb(51, 125, 237) 47px 47px,
+    rgb(51, 125, 237) 48px 48px,
+    rgb(51, 125, 237) 49px 49px,
+    rgb(51, 125, 237) 50px 50px,
+    rgb(51, 125, 237) 51px 51px,
+    rgb(51, 125, 237) 52px 52px;
+}

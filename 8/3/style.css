@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.wrapper{
+	width: 525px;
+	height: 488px;
+	background-color: #030388;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 16vh;
+	position: relative;
+}
+img{
+	width: 525px;
+	height: 488px;
+	position: absolute;	
+}
+.item{
+	background-color: #030388;
+	opacity: 0.7;
+}
+.item:hover {
+	background-color: #030388;
+	opacity: 0.4;	
+	color: #ffffff;
+}
+.main p{
+	position: absolute;
+	color: #fff;
+	top: 80%;
+	left:30%;
+	font: bold 40px Arial;
+	text-shadow: 0 0 5px #fff;
+}
+
