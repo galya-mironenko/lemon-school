@@ -19,63 +19,65 @@
 .wrapper{
 	margin-top: 50%;
 }
-
 form{
-box-shadow: 0 0 60px 0 rgba(0, 0, 0, .2);
-padding: 15px 10px;
-line-height: 30px;
-border: 1px solid black;
+	box-shadow: 0 0 60px 0 rgba(0, 0, 0, .2);
+	padding: 15px 10px;
+	line-height: 30px;
+	border: 1px solid black;
 
 }
 .form-control {
-			margin-top: 0px;
-			margin-bottom: 5px;
-		}
-		input[type="text"] {
-			display: block;
-			width: 100%;
-			padding: 3px;
-			border: 1px solid black;
-			display: inline-block;
-		}
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+input[type="text"] {
+	display: block;
+	width: 100%;
+	padding: 3px;
+	border: 1px solid black;
+	display: inline-block;
+}
+input[type="text"]:focus {
+	box-shadow: 0 0 10px 0 rgba(0,0,0,.7);
+	border: 1px solid #000;
+	outline: none;
+}
+input[type="radio"] {
+	display: none;
+}
+input[type="radio"] + span {
+	display: inline-block;
+	position: relative;
+	width: 15px;
+	height: 15px;
+	background-color: #FFF;
+	border-radius: 50%;
+	box-sizing: border-box;
+	border: 1px solid #000;
+	background-color: #FFF;
+}
+input[type="radio"]:checked + span::before {
+	content: '';
+	position: absolute;
+	display: block;
+	width: 4px;
+	height: 4px;
+	top: 2.7px;
+	left: 2.5px;
+	padding: 2px;
+	border-radius: 50%;
+	background-color: #000;
+	transition: .3s ease-in-out;
+}
+.button__form{
+	background-color: #000;
+	color: #fff;
+}
+button{
+	padding-left: 26px;
+	padding-right: 26px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border: none;
+}
 		
-		input[type="text"]:focus {
-			box-shadow: 0 0 10px 0 rgba(0,0,0,.7);
-			border: 1px solid #000;
-			outline: none;
-		}
-		input[type="radio"] {
-			display: none;
-		}
-		input[type="radio"] + span {
-			display: inline-block;
-			width: 10px;
-			height: 10px;
-			background-color: #FFF;
-			border-radius: 50%;
-			box-sizing: border-box;
-			border: 1px solid #000;
-			background-color: #FFF;
-		}
-		input[type="radio"]:checked + span {
-			background-color: #FFF;
-			width: 10px;
-			height: 10px;
-			background-color:#FFF;
-			border-radius: 50%;
-		}
-		a:hover + span{
-			color: #000;
-		}
-		
-		.button__form{
-			background-color: #000;
-			color: #fff;
-		}
-		button{
-			padding-left: 26px;
-			padding-right: 26px;
-			padding-top: 3px;
-			padding-bottom: 3px;
-			border: none;
-		}
