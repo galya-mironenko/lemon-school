@@ -1,0 +1,21 @@
+
+table{
+	border-collapse: collapse;
+	width: 500px;
+	height: 200px;
+}
+th{
+	background-color: black;
+	color: white;
+	font: 18px sans-serif;
+	border: 1px solid black;
+
+}
+td{
+	border: 1px solid black;
+	padding: 5px;
+	font: 16px sans-serif;
+}
+td:first-of-type{
+	text-align: center;
+}
