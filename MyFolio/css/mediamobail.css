@@ -1,0 +1,177 @@
+@media screen and (max-width: 758px){
+	h1 {
+	font-size: 2.5rem;
+	letter-spacing: 1rem;
+}
+.text-top {
+	font-size: 1.4rem;
+}
+.text-bottom {
+	font-size: 1rem;
+}
+.about p {
+	font-size: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem ;
+}
+.about span {
+	font-size: 	1.4375rem;
+}
+.about__sprite {
+	width: 34%;
+	padding-bottom: 6rem;
+}
+.about_sprite_text2{
+	border-right: none;
+}
+.about_sprite_text1,
+.about_sprite_text2,
+.about_sprite_text3,
+.about_sprite_text4 {
+	padding-top: 2rem ;
+	margin-top: 3rem;
+}
+button{
+	font-size: 0.8rem;
+	padding: 0.5375rem 3.575rem;
+}
+}
+@media screen and (max-width: 624px){
+header li {
+	padding-right: 1rem;
+	font-size:  0.6rem;	
+}
+h1 {
+	font-size: 2rem;
+	letter-spacing: 1rem;
+}
+.content__span {
+	padding-left: 1.5rem;
+	font-size: 1.2rem;
+	padding-top:1.2rem;
+}
+.about_sprite_text3,
+.about_sprite_text4 {
+	margin-top: 1rem;
+}
+.services__list__item {
+  width: 27%;
+  margin-left: 0px;
+}
+.work_content {
+	width: 50%;
+}
+.text-top {
+	font-size: 1.2rem;
+}
+}
+@media screen and (max-width: 551px){
+	h1 {
+	font-size: 1.8rem;
+	letter-spacing: 0.9rem;
+}
+.text-top {
+	font-size: 1.1rem;
+	padding-top: 15rem;
+}
+.services__list__item {
+  margin-right: 50px;
+  width: 34%;
+}
+header li {
+	padding-right: 0.8rem;
+}
+}
+@media screen and (max-width: 497px){
+h1 {
+	font-size: 1.5rem;
+	letter-spacing: 0.6rem;
+}
+.content__image a {
+	width: 160px;
+  	height: 45px;
+}
+header li {
+	padding-right: 0.5rem;
+}
+.content__span {
+	padding-left: 1rem;
+	font-size: 1rem;
+	padding-top:1.5rem;
+}
+}
+@media screen and (max-width: 383px){
+	header li {
+	padding-right: 0.1rem;
+}
+.content__span {
+	padding-left: 0.3rem;
+	font-size: 0.7rem;
+	padding-top:1.7rem;
+}
+	h1 {
+	font-size: 1.2rem;
+	letter-spacing: 0.5rem;
+}
+.text-top {
+	padding-top: 18rem;
+	margin-bottom: 0.5rem;
+	font-size: 0.9375rem;
+}
+.text-bottom {
+	font-size: 0.7rem;
+}
+.content__image a {
+	width: 155px;
+  	height: 40px;
+  	font-size: 0.8rem;
+}
+.services__list__item {
+  width: 80%;
+  margin-left: 0px; 
+}
+.services__list__item p{
+	font-size: 0.9rem;
+	line-height: 1.2rem;
+	text-align: center;
+}
+.services_img1,
+.services_img2,
+.services_img3,
+.services_img4{
+	margin-left: 40%;
+}
+.title{
+	font-size: 1.2rem;
+	text-align: center;
+}
+.about__sprite {
+	width: 72%;
+	padding-bottom: 4rem;
+}
+.about_sprite_text1,
+.about_sprite_text2,
+.about_sprite_text3,
+.about_sprite_text4 {
+	border: none;
+	padding-top: 1.5rem ;
+	margin-top: 1rem;
+}
+}
+@media screen and (max-width: 350px){
+header li {
+	padding-right: 0.1rem;
+	font-size:  0.5rem;	
+}
+.content__span {
+	padding-left: 0.2rem;
+	font-size: 0.5rem;
+	padding-top:1.7rem;
+}
+nav {
+ 	
+ 	padding-top: 1.3rem;
+ 	padding-bottom: 1.3rem;
+ 	
+}
+}

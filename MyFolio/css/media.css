@@ -1,0 +1,158 @@
+@media screen and (max-width: 1679px){
+.square h3 {
+	font-size: 1.4rem;
+	padding-top: 3rem;
+	padding-bottom: 1rem;
+}
+.square p {
+	font-size: 0.8rem;
+}
+.services__list__item {
+  margin-left: 40px;
+}
+.tilda5 {
+  padding-right: 43%;
+}
+.services_container h2 {
+  padding-right: 30%;
+}
+.services_caption {
+	margin-left: 22%;
+	margin-right: 9rem;
+}
+}
+@media screen and (max-width: 1435px){
+	.square h3 {
+	font-size: 1.2rem;
+	padding-top: 2rem;
+}
+.square p {
+	font-size: 0.7rem;
+}
+.services__list__item {
+  margin-left: 0px;
+  margin-right: 26px;
+}
+.tilda5 {
+  padding-right: 55%;
+}
+.services_container h2 {
+  padding-right: 40%;
+}
+.services_caption {
+	margin-left: 15%;
+	margin-right: 5rem;
+}
+@media screen and (max-width: 1255px){
+	.square h3 {
+	font-size: 1rem;
+	padding-top: 1.5rem;
+}
+  .square p {
+	font-size: 0.6rem;
+}
+.services__list__item {
+  margin-right: 28px;
+}
+}
+@media screen and (max-width: 1125px){
+	.square h3 {
+	font-size: 1rem;
+	padding-top: 1.3rem;
+}
+.square p {
+	font-size: 0.6rem;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.services__list__item {
+  margin-right: 26px;
+  width: 40%;
+}
+.tilda5 {
+  padding-right: 47%;
+}
+.services_container h2 {
+  padding-right: 32%;
+}
+.services_caption {
+	margin-left: 15%;
+	margin-right: 5rem;
+}
+}
+@media screen and (max-width: 1015px){
+	.square {
+		display: none;
+	}
+	.about_title_text {
+	font-size: 11px;
+	padding-left: 2.8rem;
+	padding-right: 2.8rem;
+}
+h1 {
+	font-size: 3.8rem;
+}
+}
+@media screen and (max-width: 904px){
+h1 {
+	font-size: 3.3rem;
+}
+header li {
+	padding-right: 1.5rem;	
+}
+.about_title_text {
+	font-size: 11px;
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+.services_caption{
+	text-align: center;
+}
+.tilda5 {
+  padding-right: 10%;
+}
+.services_container h2 {
+  padding-right: 10%;
+}
+.services_caption {
+	margin-left: 15%;
+	margin-right: 5rem;
+}
+.services__list__item {
+  margin-right: 80px;
+  margin-left: 15px;
+  width: 33%;
+}
+.about__services__img{
+width: 0%;
+}
+.services_container {
+  width: 100%;
+}
+}
+@media screen and (max-width: 832px){
+	h1 {
+	font-size: 3rem;
+}
+header li {
+	padding-right: 1.3rem;	
+}
+.content__span {
+	padding-left: 2rem;
+	font-size: 1.5875rem;
+}
+.services_container h2 {
+  padding-right: 5%;
+}
+button{
+	padding: 0.5375rem 3.575rem;
+ }
+}
+@media screen and (max-width: 787px){
+	h1 {
+	font-size: 2.8rem;
+}
+.title{
+	font-size: 0.8rem;
+}
+}
