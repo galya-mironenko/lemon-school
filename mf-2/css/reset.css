@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Kaushan Script', cursive;
+	font-family: 'Roboto', sans-serif;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+	list-style: none;
+}
+ li {
+	list-style-type: none;
+	text-decoration: none;
+}
