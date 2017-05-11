@@ -1,0 +1,393 @@
+@media screen and (max-width: 775px){
+.progress {
+	width: 120px;
+}
+.progress_bar_item li {
+    margin-right: -124px;
+}
+.crisper h1 {
+	font-size: 70px;	
+}
+.images__hover{
+	display: none;
+}
+ .contant__services {
+    display: inline-block;
+}
+.caption__services__sprite {
+    max-width: 100%;
+}
+}
+@media screen and (max-width: 738px){
+	.progress {
+	width: 120px;
+}
+.progress_bar_item li {
+    margin-right: 0px;
+}
+.progress_bar_item li p {
+    padding-right: 64px;
+}
+}
+@media screen and (max-width: 663px){
+	.accordion {
+    padding-right: 35px;
+}
+.progress_bar_item li p {
+    padding-right: 49px;
+}
+.crisper h1 {
+	font-size: 65px;	
+}
+.caption__services__list {
+    width: 32%;
+}
+.caption__services__list p {
+    width: 194px;
+}
+.figure-left {
+    margin-left: 5%;
+        width: 413px;
+}
+.blogs_text {
+    width: 122px;
+    padding-top: 150px;
+}
+.capital__text {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+@media screen and (max-width: 630px){
+	.progress_bar_item li p {
+    display: none;
+}
+.progress_bar_item li {
+   display: none;
+}
+.about__images__item {
+    margin-left: 5%;
+}
+.about__images__item:last-of-type{
+	 margin-left: 5%;
+}
+.number__item h3 {
+    font-size: 46px;
+    margin-top: -12px;
+}
+.blogs_text {
+    width: 98px;
+    padding-top: 140px;
+}
+
+.bl_text p {
+    font-size: 12px;
+}
+.bl_text h3 {
+    font-size: 10px;
+}
+}
+@media screen and (max-width: 610px){
+	.blog1, .blog2, .blog3 {
+    width: 97px;
+}
+.blogs {
+    width: 108px;
+}
+.blogs_text {
+    padding-top: 149px;
+}
+.instagram {
+    margin-left: 13px;
+}
+.history {
+    margin-left: 15%;
+}
+.clients {
+    width: 46%;
+    margin-left: 23px;
+}
+.carousel__slide p,
+.slider-wrapper p{
+	font-size: 16px;
+	margin-left: 50px;
+}
+.slider-wrapper p{
+	margin-left: 100px;
+}
+.history:last-of-type {
+    margin-left: 15%;
+    }
+ header li {
+    padding-right: 6px;
+}
+.nav li a {
+    font-size: 11px;
+}
+.logo {
+    font-size: 2rem;
+    padding-top: 26px;
+}
+.accordion {
+    width: 73%;
+    margin-right: 63px;
+    margin-top: 20px;
+}
+.painting__serv {
+    width: 100%;
+}
+.crisper h2 {
+	font-size: 52px;
+}
+.crisper h1 {
+	font-size: 55px;	
+}
+}
+@media screen and (max-width: 548px){
+.figure-left,
+.figure-right {
+    display: none;
+}
+.content__design {
+ margin-bottom: 0px;
+}
+.meet-img_items {
+    margin-right: 71px;
+}
+.meet-img {
+    width: 84%;
+}
+.clients img {
+    margin-left: 144px;
+}
+.clients p {
+    width: 152px;
+    font-size: 12px;
+}
+.caption__services__list {
+    width: 55%;
+    margin-left: 20%;
+     padding-top: 20px;
+    padding-bottom: 20px;
+}
+.caption__services__list p {
+    width: 264px;
+    font-size: 12px;
+}
+ .number__item h3 {
+    font-size: 38px;
+    margin-top: 23px;
+}
+.numder {
+  padding-top: 0px; 
+  
+}
+.number__item p, .caption__services__list h4 {
+    font-size: 11px;
+}
+}
+@media screen and (max-width: 490px){
+.company {
+    width: 29%;
+}
+.hipster__logo, .abcd__logo, .quality__logo, .barber__logo, .barbershop__logo, .stydio__logo {
+  margin-left: 0px;
+}
+.blog1, .blog2, .blog3 {
+    width: 113px;
+}
+.blogs {
+    width: 132px;
+}
+.blogs, .instagram, .blogs_text {
+    margin-top: -184px;
+}
+.blogs_text {
+    width: 180px;
+}
+.instagram {
+    margin-left: 34px;
+    padding-top: 144px;
+    width: 254px;
+}
+.bl_text p {
+    font-size: 15px;
+}
+.bl_text {
+    padding-top: 22px;
+}
+}
+@media screen and (max-width: 460px){
+	.about__images__item {
+    margin-left: -6%;
+}
+.about__images__item:last-of-type {
+    margin-left: -6%;
+}
+.caption__services__list {
+    margin-left: 8%;
+}
+.carousel__slide p,
+.slider-wrapper p{
+	font-size: 15px;
+	margin-left: 70px;
+}
+.meet-img_items {
+    margin-left: -8px;
+}
+.meet-img_items:last-of-type {
+    margin-left: -2%;
+  }
+  .sprite_company {
+    margin-left: 5%;
+}
+.slider-wrapper p{
+	font-size: 15px;
+	margin-left: 50px;
+}
+.image-slick {
+    width: 150px;
+	height: 150px;
+}
+.clients p {
+    margin-left: -2px;
+}
+.clients img {
+    margin-left: 23px;
+}
+.clients {
+    width: 40%;
+    margin-left: 23px;
+}
+.history {
+    margin-left: 8%;
+}
+.history {
+    width: 86%;
+}
+.picture__small {
+    padding-left: 0px;
+}
+.history:last-of-type {
+    margin-left: 8%;
+}
+.instagram {
+    margin-left: 11px;
+   }
+   header li {
+    padding-right: 4px;
+}
+.nav li a {
+    font-size: 9px;
+}
+.logo {
+    font-size: 1.5rem;
+    padding-top: 30px;
+}
+.crisper h2 {
+	font-size: 42px;
+}
+.crisper h1 {
+	font-size: 40px;	
+}
+.about__images__item {
+    width: 92%;
+    overflow: hidden;
+}
+.about__images {
+    margin-left: 31px;
+}
+.caption__services__list {
+    margin-left: -5%;
+}
+.carousel__slide p,
+.slider-wrapper p{
+	font-size: 14px;
+	margin-left: 70px;
+}
+.meet-img {
+    width: 80%;
+    overflow: hidden;
+}
+.meet-img_items {
+    margin-left: -12px;
+}
+.company {
+    width: 49%;
+}
+.history {
+    margin-left: 3%;
+}
+.history:last-of-type {
+    margin-left: 3%;
+}
+}
+@media screen and (max-width: 358px){
+	.crisper h2 {
+	font-size: 35px;
+}
+.crisper h1 {
+	font-size: 35px;	
+}
+.caption__services__list {
+    width: 72%;
+
+}
+.painting__serv {
+    width: 97%;
+}
+.accordion {
+    width: 78%;
+    margin-right: 55px;
+
+}
+.carousel__slide p,
+.slider-wrapper p{
+	font-size: 12px;
+	margin-left: 70px;
+}
+.slider-wrapper p{
+	font-size: 12px;
+	margin-left: 70px;
+	margin-top: -30px;
+}
+.clients p {
+    width: 137px;
+    font-size: 11px;
+}
+.clients {
+    width: 44%;
+    margin-left: 18px;
+}
+.history {
+    margin-left: 4%;
+    width: 86%;
+    overflow: hidden;
+}
+.sites {
+    width: 9%;
+}
+.site {
+    width: 15%;
+    font-size: 10px;
+}
+.btn {
+    padding: 6px 11px!important;
+    font-size: 14px;
+}
+input {
+    padding-top: 6px;
+    padding-bottom: 5px;
+    padding-left: 4px; 
+}
+.blogs {
+    width: 128px;
+}
+.blogs_text {
+    width: 133px;
+}
+.bl_text {
+    padding-top: 14px;
+}
+}
